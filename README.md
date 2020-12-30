@@ -2,6 +2,14 @@
 
 2020년 12월 30일에 개설된 한국산업기술대학교 알고리즘 스터디 그룹입니다.
 
+## ⭐️ 스터디원 ⭐️
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/contea95"><img src="https://avatars1.githubusercontent.com/u/64491659?s=400&u=3c39d4f9b95c74c1474c8cc90706155d600f00b8&v=4" width="100px;" alt=""/><br /><sub><b>한상혁</b></sub></a><br />Python/Swift</td>
+    <td align="center"><a href="https://github.com/dasoopark"><img src="https://avatars3.githubusercontent.com/u/51106039?s=400&u=5c86308a2fa6e33b84bd1623658ffbb3cb19b960&v=4" width="100px;" alt=""/><br /><sub><b>박다수</b></sub></a><br />Java</td>
+  </tr>
+</table>
+
 ## 알고리즘 유의사항
 - 코드리뷰의 가독성을 위해, 변수명과 로직을 명확하게 하도록 노력합시다
   - 현업에서 내가 짠 코드를 나 혹은 다른 사람이 이해할 수 있게 짜는, 배려가 중요합니다
