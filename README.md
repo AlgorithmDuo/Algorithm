@@ -60,9 +60,9 @@ label: 문제푼 곳, 언어, 난이도(옵션)
 - label: 문제 출처(Programmers, BOJ, leetcode, codility... ), 푼 언어(Javascript, python, java, c++, c, ...) , 난이도(HARD, EASY, NOMAL)
 
 #### Merge 기준
-a. assignee 모두 리뷰를 남겼을 때
-b. 다음 문제를 풀기 직전
-기준 a 혹은 b 둘중 하나만 만족하면됩니다!
+- a. assignee 모두 리뷰를 남겼을 때
+- b. 다음 문제를 풀기 직전
+- 기준 a 혹은 b 둘중 하나만 만족하면됩니다!
 
 ## 리뷰 하는 방법
 자신의 의견을 망설이지 않고 표출하는것이 가장 중요하다.
